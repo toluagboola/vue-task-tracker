@@ -2,6 +2,8 @@
 
 An application that allows the user to add, update and delete a task.
 
+![Task tracker](https://github.com/toluagboola/vue-task-tracker/blob/master/task-tracker.png)
+
 ## Project setup
 
 - Clone this repo to your machine
