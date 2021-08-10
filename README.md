@@ -20,7 +20,7 @@ yarn install
 yarn serve
 ```
 
-Navigate to [http://localhost:8080/](http://localhost:8080/) to view it in your browser
+Navigate to [http://localhost:8080/](http://localhost:8080/) to view it in your browser.
 
 ## Run the JSON-server backend
 
@@ -28,4 +28,6 @@ Navigate to [http://localhost:8080/](http://localhost:8080/) to view it in your 
 yarn backend
 ```
 
-Navigate to [http://localhost:5000/](http://localhost:5000/) to view it in your browser
+Navigate to [http://localhost:5000/](http://localhost:5000/) to view it in your browser.
+
+_This project was built following [Brad Traversy](https://github.com/bradtraversy)'s [Vue JS crash course](https://www.youtube.com/watch?v=qZXt1Aom3Cs) on YouTube._
