@@ -1,19 +1,29 @@
-# vue-tracker
+# Event Tracker
+
+An application that allows the user to add, update and delete a task.
 
 ## Project setup
+
+- Clone this repo to your machine
+- `cd` into the project directory
+- Run the following commands in your terminal:
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Run the Vue dev server
+
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+Navigate to [http://localhost:8080/](http://localhost:8080/) to view it in your browser
+
+## Run the JSON-server backend
+
 ```
-yarn build
+yarn backend
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Navigate to [http://localhost:5000/](http://localhost:5000/) to view it in your browser
